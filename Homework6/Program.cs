@@ -9,8 +9,8 @@ public static class Program
         const string deserializationPath = "/Users/maksymkhodakov/Desktop/test.json";
         const string serializationPath = "/Users/maksymkhodakov/Desktop/test1.json";
         
-        /*var deserializer = new Deserializer<Book>();
-        deserializer.Execute(deserializationPath);*/
+        var deserializer = new Deserializer<Book>();
+        deserializer.Execute(deserializationPath);
 
 
         var serializer = new Serializer<Book>();
