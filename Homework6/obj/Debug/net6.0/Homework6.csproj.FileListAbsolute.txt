@@ -1,0 +1,15 @@
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/bin/Debug/net6.0/Homework6
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/bin/Debug/net6.0/Homework6.deps.json
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/bin/Debug/net6.0/Homework6.runtimeconfig.json
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/bin/Debug/net6.0/Homework6.dll
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/bin/Debug/net6.0/Homework6.pdb
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.AssemblyReference.cache
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfoInputs.cache
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.AssemblyInfo.cs
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.csproj.CoreCompileInputs.cache
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.dll
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/refint/Homework6.dll
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.pdb
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/Homework6.genruntimeconfig.cache
+/Users/maksymkhodakov/RiderProjects/Homework6/Homework6/obj/Debug/net6.0/ref/Homework6.dll
